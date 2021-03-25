@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "양승주"
 description              : "시스템 프로그램을 위한 C언어"
 url                      : "https://syjang04.github.io"
-_config.yml
+
 in
 master
 baseurl                  : # the subpath of your site, e.g. "/blog"
