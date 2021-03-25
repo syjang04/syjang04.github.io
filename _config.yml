@@ -23,8 +23,6 @@ name                     : "양승주"
 description              : "시스템 프로그램을 위한 C언어"
 url                      : "https://syjang04.github.io"
 
-in
-master
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "syjang04/syjang04.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
