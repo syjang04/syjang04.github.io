@@ -30,9 +30,9 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-  provider: "disqus"
-    shortname            : "syjang04-github-io"
-  discourse:
+    provider  : "disqus"
+   
+    shortname : "syjang04-github-io"
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
