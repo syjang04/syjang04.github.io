@@ -22,7 +22,6 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "양승주"
 description              : "시스템 프로그램을 위한 C언어"
 url                      : "https://syjang04.github.io"
-
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "syjang04/syjang04.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -30,9 +29,10 @@ logo                     : "/assets/images/양승주 로고 사진 (1).png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-    provider  : "disqus"
    
-    shortname : "syjang04-github-io"
+   provider  : "disqus"
+   
+   shortname : "syjang04-github-io"
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
