@@ -30,7 +30,7 @@ logo                     : "/assets/images/양승주 로고 사진 (1).png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-    provider             : "disqus"
+    provider  : "disqus"
    
     shortname : "syjang04-github-io"
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
